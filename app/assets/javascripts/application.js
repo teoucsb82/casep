@@ -18,4 +18,5 @@
 //= require respond.min.js
 //= require jquery.superslides.min.js
 //= require jquery.sudoslider.min.js
+//= require jquery.mixitup.min.js
 //= require_tree .
