@@ -20,4 +20,5 @@
 //= require jquery.sudoslider.min.js
 //= require jquery.mixitup.min.js
 //= require jquery.carouFredSel-6.2.1-packed.js
+//= require gmap3.min.js
 //= require_tree .
