@@ -19,4 +19,5 @@
 //= require jquery.superslides.min.js
 //= require jquery.sudoslider.min.js
 //= require jquery.mixitup.min.js
+//= require jquery.carouFredSel-6.2.1-packed.js
 //= require_tree .
