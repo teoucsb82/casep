@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 1.2'
 gem 'figaro'
 gem 'font-awesome-sass'
+gem 'rails_12factor'
 
 group :development do
 	gem 'sqlite3'
