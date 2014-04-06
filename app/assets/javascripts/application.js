@@ -13,6 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require bootstrap.min.js
-//= html5shiv.js
-//= jquery-1.10.2.min.js
+//= require html5shiv.js
+//= require jquery-1.10.2.min.js
+//= require respond.min.js
 //= require_tree .
