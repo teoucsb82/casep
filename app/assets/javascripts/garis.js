@@ -193,7 +193,7 @@ dp(document).ready(function() {
                 latLng: [lats, lngs],
                 data: data_address,
                 options: {
-                    icon: "images/map-marker.png"
+                    icon: "https://s3-us-west-2.amazonaws.com/casep/images/map-marker.png"
                 }
             }],
             options: {
