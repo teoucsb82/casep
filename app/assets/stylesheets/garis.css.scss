@@ -134,8 +134,9 @@ footer p {
     margin-top: 11px;
 }
 #sidebar .navbar-brand {
+    margin-top: -45px;
+    margin-bottom: 150px;
     padding-top: 10px;
-    padding-bottom: 20%;
     padding-left: 30px;
 }
 #sidebar .navbar {
@@ -376,7 +377,7 @@ footer p {
 .home .slide-text {
     position: absolute;
     display: block;
-    bottom:40%;
+    bottom:60%;
     right: 0;
     left:-220px;
     width: 100%;
