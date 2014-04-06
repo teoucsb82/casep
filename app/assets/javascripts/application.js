@@ -13,4 +13,5 @@
 //= require jquery
 //= require jquery_ujs
 //= require bootstrap.min.js
+//= html5shiv.js
 //= require_tree .
